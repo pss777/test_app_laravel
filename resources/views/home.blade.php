@@ -10,7 +10,7 @@
 	
 	</div>
 	
-	@if (count($divisions) == 0 AND count($divisions) == 0)
+	@if (count($divisions) == 0)
 	
 		<div class="atention">Нет данных!</div><br>
 

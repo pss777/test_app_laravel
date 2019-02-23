@@ -35,7 +35,7 @@
 				</div>
 			</div>
 
-			{{-- Кнопка добавления сотрудника --}}
+			{{-- Кнопка добавления отдела --}}
 			<div class="form-group">
 				<div class="col-sm-offset-2 col-sm-10">
 				  <button class="btn btn-primary"><i class="glyphicon glyphicon-floppy-disk"></i> &nbsp; Сохранить</button>
